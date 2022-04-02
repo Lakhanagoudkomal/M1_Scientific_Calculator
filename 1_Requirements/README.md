@@ -8,7 +8,7 @@
 - Cost is less.
 ### Features are as follows:
  - Easy to understand.
- - Easy to find  Addition, substaction, multiplication ,divide power,modulus and factorial of numbers. .
+ - Easy to find  Addition, substraction, multiplication ,divide power,modulus and factorial of numbers. .
  - Recognize the numbers it is works for given number or not like addition is work for two zero numbers or not.
 
 ## SWOT Analysis
@@ -25,7 +25,7 @@
 
 ## 4W'S and 1'H
 ### Who:
-- The user can used to add ,substact ,multiplication and division of two numbers and more options are available to perform mathematical functions.
+- The user can used to add ,substract ,multiplication and division of two numbers and more options are available to perform mathematical functions.
 ### What:
 - To calculate two numbers using different functions.
 ### When:
